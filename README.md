@@ -10,6 +10,7 @@ Download and install python
 Download the files balloon_sim.py and winds.txt
 
 run pip install pandas keyboard pyserial
+run python balloon_sim.py
 
 Using virtual com ports
 Python connects to COM10
