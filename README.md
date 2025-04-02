@@ -4,10 +4,10 @@ Simulated winds are based on winds.txt file
 
 Currently using swedish keyboard ä and - to increase and decrease vertical speed
 
-Tested with python Python 3.13.2
+Tested with  Python 3.13.2
 
 Download and install python
-Download the files
+Download the files balloon_sim.py and winds.txt
 
 run pip install pandas keyboard pyserial
 
