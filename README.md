@@ -1,4 +1,4 @@
-# hot_air_balloon_sim_nmea
+# Hot air balloon - GPS simulator
 Simulates gps signals using NMEA 0183 for a hot air balloon.
 Simulated winds are based on winds.txt file
 
